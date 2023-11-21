@@ -1,7 +1,8 @@
 # Digital-Humanities-Tools-and-Methods
-Dataset: Journal Ranking Dataset
-Creator: Abir Hassan
-Resource: https://www.kaggle.com/datasets/xabirhasan/journal-ranking-dataset?select=journal_ranking_data.csv
+**Dataset: Journal Ranking Dataset**
+**Creator: Abir Hassan**
+**Resource: https://www.kaggle.com/datasets/xabirhasan/journal-ranking-dataset?select=journal_ranking_data.csv**
+
 ## About Dataset
 **Journals & Ranking**
 An academic journal or research journal is a periodical publication in which research articles relating to a particular academic discipline is published, according to Wikipedia. Currently, there are more than 25,000 peer-reviewed journals that are indexed in citation index databases such as Scopus and Web of Science. These indexes are ranked on the basis of various metrics such as CiteScore, H-index, etc. The metrics are calculated from yearly citation data of the journal. A lot of efforts are given to make a metric that reflects the journal's quality.
