@@ -11,11 +11,11 @@ Whether there is a correlation between country and subject area, and is this cor
 
 ## Data Preparation:
 
-Journal ranking data: ranking, SJR-index, CiteScore and others.
+Journal ranking data: ranking, SJR-index, CiteScore.
 
-Country Information: the country to which the journal belongs.
+Country Information.
 
-Subject area information: the subject areas covered by the journal.
+Subject information.
 
 ## Possible tools:
 
